@@ -1,6 +1,8 @@
+# react-gist
+
 This is a rewrite in React functional component inspired by [tleunen/react-gist](https://github.com/tleunen/react-gist).
 
-### Usage
+# Usage
 ---
 
 ```js

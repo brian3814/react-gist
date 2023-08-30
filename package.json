@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/brian3814/react-gist/issues"
   },
-  "homepage": "https://github.com/brian3814/react-gist#readme"
+  "homepage": "https://github.com/brian3814/react-gist#readme",
+  "devDependencies": {
+    "react": "^18.2.0"
+  }
 }
